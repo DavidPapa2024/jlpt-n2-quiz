@@ -1,0 +1,6 @@
+/jlpt-n2-vocab-quiz
+│── index.html      # 前端界面
+│── js/
+│   └── app.js      # 交互逻辑
+└── data/
+    └── questions.json  # 题库数据（1000题示例）
